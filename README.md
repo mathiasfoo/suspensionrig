@@ -51,3 +51,14 @@ The masses (`ms`, `mu`), suspension stiffness (`ks`), lower/tyre stiffness (`kt`
 
 NOTE: The plots shown in the paper are plotted using MATLAB script.
 
+
+# Suspension Rig CAD drawing
+The folder `CAD Drawings` contains all the required CAD drawings to reproduce the suspension rig. It contains the following
+
+Base Drawing.pdf
+Overall Rig Labelling.pdf
+Road Plate Drawing.pdf
+Skotch Yoke Parts Drawing.pdf
+Tyre Plate Drawing.pdf
+Tyre Spring Holders Components Drawings.pdf
+Vehicle Plate Drawing.pdf
